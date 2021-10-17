@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paniy&show_icons=true&theme=algolia)](https://github.com/paniy)
+| <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paniy&show_icons=true&theme=algoliai&nclude_all_commits=true&hide_border=true" alt="paniy's github stats" /></a> | <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniy&layout=compact&theme=algoliai&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/paniy/Xray_bash_onekey">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=Xray_bash_onekey&theme=algoliai" />
+</a>
+<a href="https://github.com/paniy/WP-Admin-Boost">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=WP-Admin-Boost&theme=algoliai" />
+</a>
+
+<br />
+<br />
 
 <!--
 **paniy/paniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
