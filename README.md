@@ -6,12 +6,8 @@
 #### Top Repositories
 
 
-<a href="https://github.com/paniy/Xray_bash_onekey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=Xray_bash_onekey&theme=dark" />
-</a>
-<a href="https://github.com/paniy/WP-Admin-Boost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=WP-Admin-Boost&theme=dark" />
-</a>
+| <a href="https://github.com/paniy/Xray_bash_onekey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=Xray_bash_onekey&theme=dark" /></a> | <a href="https://github.com/paniy/WP-Admin-Boost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=WP-Admin-Boost&theme=dark" /></a> |
+| ------------- | ------------- |
 
 <br />
 <br />
