@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paniy)](https://github.com/paniy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paniy&show_icons=true&theme=radical)](https://github.com/paniy)
 
 <!--
 **paniy/paniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
