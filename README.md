@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-| <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paniy&show_icons=true&theme=algoliai&nclude_all_commits=true&hide_border=true" alt="paniy's github stats" /></a> | <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniy&layout=compact&theme=algoliai&hide_border=true" /></a> |
+| <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paniy&show_icons=true&theme=dark&nclude_all_commits=true&hide_border=true" alt="paniy's github stats" /></a> | <a href="https://github.com/paniy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniy&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/paniy/Xray_bash_onekey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=Xray_bash_onekey&theme=algoliai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=Xray_bash_onekey&theme=dark" />
 </a>
 <a href="https://github.com/paniy/WP-Admin-Boost">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=WP-Admin-Boost&theme=algoliai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paniy&repo=WP-Admin-Boost&theme=dark" />
 </a>
 
 <br />
